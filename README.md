@@ -85,14 +85,15 @@ Prochaines améliorations :<br>
 
 <br><br>
 Répartition des taches (chacun s'est chargé de la partie sur laquelle il est plus à l'aise): <br><br>
+<a href="https://www.linkedin.com/in/diouf-maguette-2735ba204/">MAGUETTE DIOUF</a> : Une importante partie du back dont la messagerie instantannée permettant d'échanger des messages privées entre utilisateurs.
+<br>
 <a href="https://www.linkedin.com/in/emir-hakiri/">EMIR HAKIRI</a> : Une grande partie du back(Autentification, Inscription, envoi de mail, gestion des sessions, upload des fichiers, gestion des pages et profil, gestion des postes et interaction, gestion de la base de donnée, ...)
 <br>
 <a href="https://www.linkedin.com/in/gajan-baskaran-/">GAJAN BASKARAN </a> : Une grande partie du front(page de connexion, page d'inscription, feed, creation pages, barre de messagerie)
 <br>
 <a href="https://www.linkedin.com/in/sizan-mohammed-abu-taleb-334a39201/">SIZAN MUHAMMED ABU TALEB</a> : Une grande partie du front(feed, focus des postes, commentaires, profil, modifification du profil, menu de gauche)
 <br>
-<a href="https://www.linkedin.com/in/diouf-maguette-2735ba204/">MAGUETTE DIOUF</a> : Une importante partie du back dont la messagerie instantannée permettant d'échanger des messages privées entre utilisateurs.
-<br>
+
 <a href="https://www.linkedin.com/in/acc%C3%A8neroy/">ACCENE ROY</a> : partie groupe.
 <br>
 <a href="https://www.linkedin.com/in/romain-busso-932b58157/"> ROMAIN BUSSO</a>
