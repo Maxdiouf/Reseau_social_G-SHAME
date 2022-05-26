@@ -102,7 +102,7 @@ Répartition des taches (chacun s'est chargé de la partie sur laquelle il est p
 <br><br>
 Pour finir je m'excuse pour les eventuelles fautes d'orthographe :)
 <br>
-<a href="https://www.linkedin.com/in/emir-hakiri/">@anonems</a>
+<a href="https://www.linkedin.com/in/diouf-maguette-2735ba204/">@Maguette Diouf</a>
 
 
 
